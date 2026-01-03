@@ -77,4 +77,3 @@ ex(1)> PortMidi.devices
 ```
 
 For more details, [check out the Hexdocs](https://hexdocs.pm/portmidi/PortMidi.html).
-
