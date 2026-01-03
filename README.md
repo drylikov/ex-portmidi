@@ -133,4 +133,3 @@ For more details, [check out the Hexdocs](https://hexdocs.pm/portmidi/PortMidi.h
 
 
 
-
